@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Lenovo\Desktop\PT2017_W14G2-master\DataGridView\obj\Debug\DataGridView.pdb
